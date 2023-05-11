@@ -26,9 +26,9 @@
 
 ## **🎥 Демонстрація**
 
-![Image](.demo/demo_AsciiArtify.gif)
+![Image](.demo/demo_AsciiArtify(1).gif)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EyYHtBU_mEk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+width="560" height="315" src="https://www.youtube.com/embed/EyYHtBU_mEk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
 
 
 
