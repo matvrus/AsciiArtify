@@ -27,7 +27,7 @@
 ## **🎥 Демонстрація**
 
 ![Image](.demo/demo_AsciiArtify(2).gif)
-[![Click to watch video](https://img.youtube.com/vi/EyYHtBU_mEk/0.jpg)](https://youtu.be/EyYHtBU_mEk)
+[![Click to watch video](.demo/thumbnail.png)](https://youtu.be/EyYHtBU_mEk)
 
 Please click on the image to view the video
 
