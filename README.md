@@ -26,11 +26,13 @@
 
 ## **🎥 Демонстрація**
 
-![Image](.demo/demo_AsciiArtify(1).gif)
+![Image](.demo/demo_AsciiArtify(1).gif) .container {
+  display: none;
+  grid-template-columns: none;
+}
 
-width="560" height="315" src="https://www.youtube.com/embed/EyYHtBU_mEk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
 
-
+width="560" height="315" src="<https://www.youtube.com/embed/EyYHtBU_mEk>" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
 
 ## **🚨 Висновки**
 
