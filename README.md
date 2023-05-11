@@ -27,8 +27,8 @@
 ## **🎥 Демонстрація**
 
 ![Image](.demo/demo_AsciiArtify.gif)
-[![Alt text for your video](https://img.youtube.com/vi/EyYHtBU_mEk/mqdefault.jpg)](https://www.youtube.com/watch?v=EyYHtBU_mEk)
-Please click on the image below to view the video ↓
+[![Please click on the image to view the video](https://img.youtube.com/vi/EyYHtBU_mEk/1.jpg)](https://www.youtube.com/watch?v=EyYHtBU_mEk)
+Please click on the image to view the video
 
 ## **🚨 Висновки**
 
