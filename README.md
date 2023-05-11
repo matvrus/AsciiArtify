@@ -28,7 +28,7 @@
 
 ![Image](demo/demo_AsciiArtify(2).gif)
 [![Click to watch video](demo/thumbnail.png)](https://youtu.be/EyYHtBU_mEk)
-<img src=https://raw.githubusercontent.com/microsoft/vscode-python/main/images/InterpreterSelectionZoom.gif width=280 height=100>
+<img src=https://raw.githubusercontent.com/matvrus/AsciiArtify/main/demo/demo_AsciiArtify(2).gif>
 Please click on the image to view the video
 
 ## **🚨 Висновки**
