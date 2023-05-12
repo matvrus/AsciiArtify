@@ -26,7 +26,7 @@
 
 ## **🎥 Демонстрація**
 
-![Image](https://raw.githubusercontent.com/matvrus/AsciiArtify/main/.demo/demo_AsciiArtify.gif?raw=true)
+![Image](https://raw.githubusercontent.com/matvrus/AsciiArtify/main/.demo/demo_AsciiArtify.gif?raw=false)
 
 [![Click to watch video](.demo/thumbnail.png)](https://youtu.be/EyYHtBU_mEk)
 
